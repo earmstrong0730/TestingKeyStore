@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\TestKeyStore\SquareRt.Core\bin\Release\netstandard1.4\SquareRt.Core.deps.json
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\TestKeyStore\SquareRt.Core\bin\Release\netstandard1.4\SquareRt.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\TestKeyStore\SquareRt.Core\bin\Release\netstandard1.4\SquareRt.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\TestKeyStore\SquareRt.Core\obj\Release\netstandard1.4\SquareRt.Core.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\TestKeyStore\SquareRt.Core\obj\Release\netstandard1.4\SquareRt.Core.AssemblyInfo.cs
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\TestKeyStore\SquareRt.Core\obj\Release\netstandard1.4\SquareRt.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\TestKeyStore\SquareRt.Core\obj\Release\netstandard1.4\SquareRt.Core.pdb
